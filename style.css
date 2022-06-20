@@ -1,0 +1,16 @@
+#more{
+	float: left;
+	overflow: auto;
+	padding: 2px 10px 2px 10px;
+	background: #CF6;
+	border: #ff9933 2px solid;
+	-moz-border-radius: 10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-top: 5px;
+	text-align: center;
+	text-decoration: none;
+	color:#000000;
+}
